@@ -1,0 +1,5 @@
+What is data type ?
+what are variable ?
+How many primitive data types are  there in java ?
+Why do we used data types ?
+How to declared a variable ?
